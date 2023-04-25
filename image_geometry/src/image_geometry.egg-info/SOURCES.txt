@@ -1,0 +1,7 @@
+setup.py
+src/image_geometry/__init__.py
+src/image_geometry/cameramodels.py
+src/image_geometry.egg-info/PKG-INFO
+src/image_geometry.egg-info/SOURCES.txt
+src/image_geometry.egg-info/dependency_links.txt
+src/image_geometry.egg-info/top_level.txt
